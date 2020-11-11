@@ -1,0 +1,3 @@
+IdZamowienia=2,IdProduktu=2,Ilosc=10
+IdZamowienia=2,IdProduktu=2,Ilosc=10
+IdZamowienia=2,IdProduktu=2,Ilosc=10

@@ -1,0 +1,2 @@
+﻿IdZamowienia=0,IdProduktu=0,Ilosc=2;
+IdZamowienia=1,IdProduktu=1,Ilosc=3;

@@ -1,0 +1,7 @@
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\bin\Debug\Wojtas.exe.config
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\bin\Debug\Wojtas.exe
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\bin\Debug\Wojtas.pdb
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\obj\Debug\Wojtas.csproj.CoreCompileInputs.cache
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\obj\Debug\Wojtas.exe
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\obj\Debug\Wojtas.pdb
+C:\Users\deamo\Desktop\SEMESTR 5\wojtas\Wojtas\bin\Debug\Zamowienia_Produkty.txt
